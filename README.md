@@ -9,7 +9,7 @@ Project Preview:-
 
 ![project-QRcode-indexQR-htmlpreview.jpg](https://github.com/jayantashish/project_QRcodeGen/assets/84563586/ffdb5d85-de23-4d40-bf08-6253626ed42f)
 
-Note: You can also scan the QR Code shown above in the project preview from your Mobile device.😁
+Note: You can also scan the QR Code shown above in the project preview from your mobile device.
 
 
 
